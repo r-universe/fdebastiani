@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gamlss.spatial"]
+	path = gamlss.spatial
+	url = https://github.com/cran/gamlss.spatial
+	shallow = true
+	registered = true
